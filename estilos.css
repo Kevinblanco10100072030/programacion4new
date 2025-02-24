@@ -1,0 +1,60 @@
+
+h1{
+color: black;
+margin: 30px;
+}
+
+p{
+    margin-left: 30px;
+}
+
+a{
+    background: white;
+    margin-left:30px;
+    text-decoration: none;
+}
+
+button{
+    background-color: blue;
+    color: black;
+    margin-left: 30px;
+}
+
+button:hover{
+    background-color: red;
+}
+
+button:active{
+    background-color: yellow;
+}
+
+.Enlace{
+    background-color: rgb(255, 145, 0);
+    color: black;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.Enlace:hover{
+    background: brown;
+}
+
+nav{
+    background: gray;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 310px;
+}
+
+.columna{
+    background: rgb(7, 231, 7);
+    color: black;
+    padding: 20px;
+    width: 20%;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.menu{
+    display:flex;
+}
